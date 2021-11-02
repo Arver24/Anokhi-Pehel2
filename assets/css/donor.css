@@ -226,7 +226,8 @@ sup {
 
 a {
   color: #38A3A5;
-  text-decoration: underline;
+  text-decoration: none;
+  font-weight: bold;
 }
 a:hover {
   color: #15967d;
@@ -3413,7 +3414,7 @@ textarea.form-control-lg {
 .btn-link {
   font-weight: 400;
   color: #38A3A5;
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 .btn-link:hover {
   color: #15967d;
@@ -7323,9 +7324,9 @@ textarea.form-control-lg {
   text-decoration: none !important;
 }
 
-.text-decoration-underline {
+/* .text-decoration-underline {
   text-decoration: underline !important;
-}
+} */
 
 .text-decoration-line-through {
   text-decoration: line-through !important;

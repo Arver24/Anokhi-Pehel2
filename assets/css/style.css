@@ -2463,3 +2463,11 @@ section {
     color: #fff;
     width: fit-content;
 }
+
+.last{
+    background-color: (0,0,0,0.5);
+    
+    border: black;
+    border-radius: 8px;
+    margin: 5vw;
+}
