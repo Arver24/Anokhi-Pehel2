@@ -18,7 +18,13 @@
   background-image: "/assets/img/AP2.jpg";
 }
 body {
-  background-color: 	#008080;
+  background-image:url('https://images.unsplash.com/photo-1617957848811-9c07f14d7ba3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1932&q=80');
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }
